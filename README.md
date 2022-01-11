@@ -3,4 +3,4 @@ This is a restful API for boats and loads with CRUD endpoints, inter-entity rela
 You can directly access the app from:
 https://portfolio-macandok.wl.r.appspot.com
 
-You can also check out the PDF file "Documentation" for the app's documentations.
+You can also check out the PDF file "Documentation.pdf" for the app's documentations.
