@@ -34,9 +34,9 @@ BOATS = "boats-portfolio"
 LOADS = "loads-portfolio"
 
 # Update the values of the following 3 variables
-CLIENT_ID = 'llKH5TKbWYO9otOqhd2rsBTJdCpyKh7C'
-CLIENT_SECRET = 'e2oOQCSHcBxbK2_xTlQrb71t_-MyXTehE1ApZTGWrp2XeNduyFmeELVTgkk_rEnZ'
-DOMAIN = 'portfolio-macandok-493-f21.us.auth0.com'
+CLIENT_ID = 'YOUR CLIENT ID'
+CLIENT_SECRET = 'YOUR CLIENT SECRET'
+DOMAIN = 'YOUR DOMAIN'
 # For example
 # DOMAIN = 'fall21.us.auth0.com'
 
